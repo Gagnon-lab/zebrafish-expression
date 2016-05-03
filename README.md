@@ -5,7 +5,7 @@ an R function that generates simple plots of gene expression during zebrafish (D
 Input can be gene name, Refseq ID, Ensembl ID (not quite yet), or Schier lab transcript ID.
 Output is a base plot of expression over the timepoints contained in the transcriptome timecourse.
 
-![My image](http://github.com/james-gagnon/zebrafish-expression/blob/master/example.JPG)
+![My image](https://raw.githubusercontent.com/james-gagnon/zebrafish-expression/master/example.JPG)
 
 # Future Development Ideas
 
