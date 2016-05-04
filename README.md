@@ -4,9 +4,10 @@ an R function that generates simple plots of gene expression during zebrafish (D
 
 Installation notes:
 
-1. Download the three data files (two .txt, one .csv) <br>
-2. set working directory to their location within R using setwd().<br>
-3. Run the code to initialize the expression() function. <br>
+1. Download the three data files (two .txt, one .csv), and zebrafish-expression.R <br>
+2. Open zebrafish-expression.R in R or Rstudio.<br>
+2. set working directory to the location of the data files using setwd().<br>
+3. Run the function code to initialize the expression() function. <br>
 4. Call expression() at the command line, as in the examples below.<br>
 
 expression("sox32")<br>
