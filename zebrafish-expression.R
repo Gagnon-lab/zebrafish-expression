@@ -15,7 +15,7 @@
 # ------------------
 
 # setwd("DIRECTORY THAT HOSTS FILES BELOW")
-# setwd("C:/Users/James/Documents/Postdoc Work/Transcriptome Timecourse")
+
 txtome <- read.csv("transcriptome_timecourse.csv")
 GeneNameToRefSeq <- read.table("RefSeq_to_GeneName.txt")
 RefSeqToZv9 <- read.table("reconst_to_refseq.txt")
