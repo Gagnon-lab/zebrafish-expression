@@ -1,6 +1,6 @@
 # zebrafish-expression
 
-an R function that generates simple plots of gene expression during zebrafish (Danio rerio) embryonic development from a deep RNAseq timecourse dataset (Pauli et al., Genome Research 2012; Zhang, Vastenhouw et al., Genome Research 2014).
+an R function that generates simple plots of gene expression during zebrafish (Danio rerio) embryonic development from a deep RNAseq timecourse dataset (Pauli et al., Genome Research 2012; Zhang, Vastenhouw et al., Genome Research 2014). This is bulk RNAseq of entire embryos at each time point (not single cell RNAseq).
 
 Installation notes:
 
