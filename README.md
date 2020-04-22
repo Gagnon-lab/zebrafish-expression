@@ -25,3 +25,4 @@ Output is a base plot of expression over the timepoints contained in the transcr
 2. more timepoints
 3. add in other lab's gene expression datasets
 4. document pipeline of reads > FPKM (currently contained in Pauli M&Ms)
+5. Update everything to latest zebrafish genome
